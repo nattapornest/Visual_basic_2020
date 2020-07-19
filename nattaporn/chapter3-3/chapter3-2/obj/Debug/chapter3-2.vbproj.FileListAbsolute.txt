@@ -1,0 +1,15 @@
+D:\nattaporn\chapter3-2\chapter3-2\bin\Debug\chapter3-2.exe.config
+D:\nattaporn\chapter3-2\chapter3-2\bin\Debug\chapter3-2.exe
+D:\nattaporn\chapter3-2\chapter3-2\bin\Debug\chapter3-2.pdb
+D:\nattaporn\chapter3-2\chapter3-2\bin\Debug\chapter3-2.xml
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\chapter3-2.vbprojResolveAssemblyReference.cache
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\WindowsApplication1.Form1.resources
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\WindowsApplication1.Resources.resources
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\chapter3-2.vbproj.GenerateResource.Cache
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\chapter3-2.exe
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\chapter3-2.xml
+D:\nattaporn\chapter3-2\chapter3-2\obj\Debug\chapter3-2.pdb
+D:\nattaporn\chapter3-3\chapter3-2\bin\Debug\chapter3-2.exe.config
+D:\nattaporn\chapter3-3\chapter3-2\obj\Debug\chapter3-2.exe
+D:\nattaporn\chapter3-3\chapter3-2\obj\Debug\chapter3-2.xml
+D:\nattaporn\chapter3-3\chapter3-2\obj\Debug\chapter3-2.pdb

@@ -1,0 +1,22 @@
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\bin\Debug\chapter 3-4.exe.config
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\bin\Debug\chapter 3-4.exe
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\bin\Debug\chapter 3-4.pdb
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\bin\Debug\chapter 3-4.xml
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter 3-4.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter_3_4.Form1.resources
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter_3_4.Resources.resources
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter 3-4.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter 3-4.exe
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter 3-4.xml
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 3-4\obj\Debug\chapter 3-4.pdb
+D:\nattaporn\chapter 3-4\chapter 3-4\bin\Debug\chapter 3-4.exe.config
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter 3-4.exe
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter 3-4.xml
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter 3-4.pdb
+D:\nattaporn\chapter 3-4\chapter 3-4\bin\Debug\chapter 3-4.exe
+D:\nattaporn\chapter 3-4\chapter 3-4\bin\Debug\chapter 3-4.pdb
+D:\nattaporn\chapter 3-4\chapter 3-4\bin\Debug\chapter 3-4.xml
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter 3-4.vbprojResolveAssemblyReference.cache
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter_3_4.Form1.resources
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter_3_4.Resources.resources
+D:\nattaporn\chapter 3-4\chapter 3-4\obj\Debug\chapter 3-4.vbproj.GenerateResource.Cache

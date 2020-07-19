@@ -1,0 +1,11 @@
+D:\nattaporn\Ep2\Ep2\bin\Debug\Ep2.exe.config
+D:\nattaporn\Ep2\Ep2\bin\Debug\Ep2.exe
+D:\nattaporn\Ep2\Ep2\bin\Debug\Ep2.pdb
+D:\nattaporn\Ep2\Ep2\bin\Debug\Ep2.xml
+D:\nattaporn\Ep2\Ep2\obj\Debug\Ep2.vbprojResolveAssemblyReference.cache
+D:\nattaporn\Ep2\Ep2\obj\Debug\WindowsApplication1.Form1.resources
+D:\nattaporn\Ep2\Ep2\obj\Debug\WindowsApplication1.Resources.resources
+D:\nattaporn\Ep2\Ep2\obj\Debug\Ep2.vbproj.GenerateResource.Cache
+D:\nattaporn\Ep2\Ep2\obj\Debug\Ep2.exe
+D:\nattaporn\Ep2\Ep2\obj\Debug\Ep2.xml
+D:\nattaporn\Ep2\Ep2\obj\Debug\Ep2.pdb

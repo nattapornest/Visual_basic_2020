@@ -1,0 +1,11 @@
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 1-1\bin\Debug\chapter 1-1.exe.config
+D:\nattaporn\chapter 1-1\chapter 1-1\bin\Debug\chapter 1-1.exe.config
+D:\nattaporn\chapter 1-1\chapter 1-1\bin\Debug\chapter 1-1.exe
+D:\nattaporn\chapter 1-1\chapter 1-1\bin\Debug\chapter 1-1.pdb
+D:\nattaporn\chapter 1-1\chapter 1-1\bin\Debug\chapter 1-1.xml
+D:\nattaporn\chapter 1-1\chapter 1-1\obj\Debug\chapter_1_1.Form1.resources
+D:\nattaporn\chapter 1-1\chapter 1-1\obj\Debug\chapter_1_1.Resources.resources
+D:\nattaporn\chapter 1-1\chapter 1-1\obj\Debug\chapter 1-1.vbproj.GenerateResource.Cache
+D:\nattaporn\chapter 1-1\chapter 1-1\obj\Debug\chapter 1-1.exe
+D:\nattaporn\chapter 1-1\chapter 1-1\obj\Debug\chapter 1-1.xml
+D:\nattaporn\chapter 1-1\chapter 1-1\obj\Debug\chapter 1-1.pdb

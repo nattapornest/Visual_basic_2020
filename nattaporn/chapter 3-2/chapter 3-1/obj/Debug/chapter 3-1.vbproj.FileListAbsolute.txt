@@ -1,0 +1,10 @@
+D:\nattaporn\chapter 3-1\chapter 3-1\bin\Debug\chapter 3-1.exe.config
+D:\nattaporn\chapter 3-1\chapter 3-1\bin\Debug\chapter 3-1.exe
+D:\nattaporn\chapter 3-1\chapter 3-1\bin\Debug\chapter 3-1.pdb
+D:\nattaporn\chapter 3-1\chapter 3-1\bin\Debug\chapter 3-1.xml
+D:\nattaporn\chapter 3-1\chapter 3-1\obj\Debug\WindowsApplication2.Form1.resources
+D:\nattaporn\chapter 3-1\chapter 3-1\obj\Debug\WindowsApplication2.Resources.resources
+D:\nattaporn\chapter 3-1\chapter 3-1\obj\Debug\chapter 3-1.vbproj.GenerateResource.Cache
+D:\nattaporn\chapter 3-1\chapter 3-1\obj\Debug\chapter 3-1.exe
+D:\nattaporn\chapter 3-1\chapter 3-1\obj\Debug\chapter 3-1.xml
+D:\nattaporn\chapter 3-1\chapter 3-1\obj\Debug\chapter 3-1.pdb

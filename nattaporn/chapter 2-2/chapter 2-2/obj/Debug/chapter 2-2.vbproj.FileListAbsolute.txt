@@ -1,0 +1,14 @@
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\bin\Debug\chapter 2-2.exe.config
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\obj\Debug\chapter_2_2.Form1.resources
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\obj\Debug\chapter_2_2.Resources.resources
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\obj\Debug\chapter 2-2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\obj\Debug\chapter 2-2.xml
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\bin\Debug\chapter 2-2.exe
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\bin\Debug\chapter 2-2.pdb
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\bin\Debug\chapter 2-2.xml
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\obj\Debug\chapter 2-2.exe
+C:\Users\Lenovo-18\AppData\Local\Temporary Projects\chapter 2-2\obj\Debug\chapter 2-2.pdb
+D:\nattaporn\chapter 2-2\chapter 2-2\bin\Debug\chapter 2-2.exe.config
+D:\nattaporn\chapter 2-2\chapter 2-2\obj\Debug\chapter 2-2.exe
+D:\nattaporn\chapter 2-2\chapter 2-2\obj\Debug\chapter 2-2.xml
+D:\nattaporn\chapter 2-2\chapter 2-2\obj\Debug\chapter 2-2.pdb
